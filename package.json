@@ -21,7 +21,7 @@
     "@angular/router": "~7.2.0",
     "@ng-bootstrap/ng-bootstrap": "^4.0.1",
     "angular-vertical-timeline": "^0.6.0",
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "browser-xml2js": "^0.4.19",
     "buffer": "^5.2.1",
     "classlist.js": "^1.1.20150312",
