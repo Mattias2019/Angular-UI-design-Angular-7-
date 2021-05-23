@@ -31,7 +31,7 @@
     "events": "^3.0.0",
     "flickity": "^2.1.2",
     "jquery": "^3.3.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "nativescript-xml2js": "^0.5.2",
     "ngx-cookie-service": "^2.1.0",
     "ngx-soap": "^0.6.0",
